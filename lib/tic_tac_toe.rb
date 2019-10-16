@@ -47,5 +47,8 @@ class TicTacToe
     else
       turn()
     end
+    def won?
+      
+    end
   end
 end
