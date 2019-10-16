@@ -56,6 +56,6 @@ class TicTacToe
     end
   end
   def full?
-    
+
   end
 end
